@@ -1,7 +1,7 @@
 # Voice-Mouse
 A Voice Controlled Mouse helpful for people with Motor Control Issues
 
-Please run the executable for simple usage.
+For simple useage, download the executable from Voice Mouse.txt file (Google Drive link)
 
 For running the Python File, please pip install the following dependancies:
 1) pyautogui
