@@ -9,11 +9,11 @@ For running the Python File, please pip install the following dependancies:
 3) requests
 
 Instead, you can also go to the folder and give the following command:
-pip install -r Requirements.txt
+    
+    pip install -r Requirements.txt
 
 After that, you can use the following command to run your file:
-python -u voice_mouse.py
+   
+    python -u voice_mouse.py
 
-------------------------------------------------------
-                Credits: Rochan
-------------------------------------------------------
+Credits: Rochan
